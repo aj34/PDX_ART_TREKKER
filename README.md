@@ -32,7 +32,7 @@ PDX Art Trekker can be found in the Google Play Store:
  <ul>
     <li>http://developer.android.com/sdk/index.html</li>
     <li>http://developer.android.com/sdk/installing/installing-adt.html</li>
-</ul>
+</ul><br/><br/>
 
  
 6. The last step is to change a few variables to reflect your city.
