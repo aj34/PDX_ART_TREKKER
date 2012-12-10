@@ -29,14 +29,15 @@ PDX Art Trekker can be found in the Google Play Store:
 4. Get a Google Places API key using the [Google API console](https://code.google.com/apis/console/) and plug that into the main.html file.
 
 5. I use Eclipse for this project to compile the android apk. Google has great instructions on how to get Eclipse and set it up with the android sdk. 
- <ul style="margin: 8px; padding: 0px;">
+ <ul>
     <li>http://developer.android.com/sdk/index.html</li>
     <li>http://developer.android.com/sdk/installing/installing-adt.html</li>
 </ul>
+
  
 6. The last step is to change a few variables to reflect your city.
 
- <ul style="margin: 8px; padding: 0px;">
+ <ul>
     <li>change app title from "PDX Art Trekker" to your city's name</li>
     <li>change the default lat and lng from portland to your city's lat and lng</li>
     <li>update the about box info to reflect information about your app</li>
